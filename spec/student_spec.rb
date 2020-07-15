@@ -1,4 +1,5 @@
 require 'spec_helper'
+require_relative '../lib/school.rb'
 
 describe 'School' do
   before :each do
